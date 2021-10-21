@@ -3,5 +3,6 @@ LISTADO GENERAL
 Listado de usuarios que han participado:
 - Alejandro Lebrato Antolín
 - Raquel Manzanares Sanchez
+- David
 
-Total de usuarios en la lista: 2
+Total de usuarios en la lista: 3
