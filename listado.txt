@@ -1,8 +1,10 @@
-LISTADO GENERAL
+﻿LISTADO GENERAL
 
 Listado de usuarios que han participado:
 - Alejandro Lebrato Antolín
 - Raquel Manzanares Sanchez
 - David
 - Jose M. Bravo
-Total de usuarios en la lista: 4
+- Joaquín Malato Magariño
+
+Total de usuarios en la lista: 5
