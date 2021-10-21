@@ -4,5 +4,5 @@ Listado de usuarios que han participado:
 - Alejandro Lebrato Antolín
 - Raquel Manzanares Sanchez
 - David
-
-Total de usuarios en la lista: 3
+- Jose M. Bravo
+Total de usuarios en la lista: 4
