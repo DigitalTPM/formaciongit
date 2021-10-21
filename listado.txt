@@ -1,4 +1,6 @@
-Listado de usuarios que han participado.
-- Aún ninguno.
+LISTADO GENERAL
 
-Total de usuarios en la lista: 0
+Listado de usuarios que han participado:
+- Alejandro Lebrato Antolín
+
+Total de usuarios en la lista: 1
