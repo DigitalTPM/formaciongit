@@ -6,5 +6,5 @@ Listado de usuarios que han participado:
 - David
 - Jose M. Bravo
 - Joaquín Malato Magariño
-
-Total de usuarios en la lista: 5
+- Borislav Borisov
+Total de usuarios en la lista: 6
